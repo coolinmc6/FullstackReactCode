@@ -1,3 +1,3 @@
-# FullstackReactCode
+# README
 
-Companion repo to a course on Udemy.com. See here: https://www.udemy.com/node-with-react-fullstack-web-development
+Udemy course based on [https://www.udemy.com/node-with-react-fullstack-web-development](https://www.udemy.com/node-with-react-fullstack-web-development).
